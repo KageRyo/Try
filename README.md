@@ -1,2 +1,3 @@
 # try
-My attempts and test programs.
+Hi, 這裡是存放我的各種嘗試與試驗性質的程式使用！  
+有任何需要也歡迎參考或共同討論 ><  
